@@ -4,7 +4,8 @@
 
 
 
-https://github.com/yashpatel458/Aeroquest/assets/68161473/13801adb-41ad-44ae-9c7f-8d4f68f33d62
+https://github.com/yashpatel458/Aeroquest/assets/68161473/856c5f7b-965f-43d7-bec0-9ea71c8891af
+
 
 
 
