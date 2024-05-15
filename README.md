@@ -13,6 +13,8 @@ https://github.com/yashpatel458/Aeroquest/assets/68161473/856c5f7b-965f-43d7-bec
 
 Aeroquest is a project designed to analyze and understand flight prices to help users get the best deals when booking tickets close to their travel dates. The project involves crawling three flight booking websites to collect data and present users with the best deals based on specified parameters. This project showcases the implementation of various data structures and algorithms and their real-world applications.
 
+Key features include web crawling, HTML parsing, page ranking, search frequency analysis, spell checking, word completion, inverted indexing, pattern finding, and data validation. Developed in Java, Aeroquest leverages tools like Selenium WebDriver and JSOUP for effective data collection and processing.
+
 ## Features Implemented
 
 ### Web Crawler
