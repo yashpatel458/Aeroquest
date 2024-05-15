@@ -128,7 +128,7 @@ Aeroquest/
 
 ## Contact
 
-For any questions or suggestions, please reach out to [your.email@example.com](mailto:your.email@example.com).
+For any questions or suggestions, please reach out to [yashpatel.cse@gmail.com](mailto:yashpatel.cse@gmail.com).
 
 ---
 
