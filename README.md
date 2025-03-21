@@ -3,9 +3,6 @@
 <img width="783" alt="Screenshot 2023-11-14 at 9 29 32 PM" src="https://github.com/yashpatel458/Aeroquest/assets/68161473/b4add01d-e42b-4f4a-9e67-397f00e303df">
 
 
-![Alt text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF0bGs5ZGZnMTB4eHZyamExazEydXRrcGl1Mjhjb29veGY5MXAzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBLIMgSGJnZCsDu/giphy.gif)
-
-
 
 https://github.com/yashpatel458/Aeroquest/assets/68161473/856c5f7b-965f-43d7-bec0-9ea71c8891af
 
@@ -15,6 +12,9 @@ https://github.com/yashpatel458/Aeroquest/assets/68161473/856c5f7b-965f-43d7-bec
 ## Introduction
 
 Aeroquest is a project designed to analyze and understand flight prices to help users get the best deals when booking tickets close to their travel dates. The project involves crawling three flight booking websites to collect data and present users with the best deals based on specified parameters. This project showcases the implementation of various data structures and algorithms and their real-world applications.
+
+![Alt text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF0bGs5ZGZnMTB4eHZyamExazEydXRrcGl1Mjhjb29veGY5MXAzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBLIMgSGJnZCsDu/giphy.gif)
+
 
 Key features include web crawling, HTML parsing, page ranking, search frequency analysis, spell checking, word completion, inverted indexing, pattern finding, and data validation. Developed in Java, Aeroquest leverages tools like Selenium WebDriver and JSOUP for effective data collection and processing.
 
